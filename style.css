@@ -1,0 +1,36 @@
+.body {
+    
+    line-height: 1.5;
+    text-align: justify;
+    margin: 0 auto;
+    max-width: 50em;
+    background-color: bisque;
+
+}
+
+.h1, h2 {
+    font-style: italic;
+    color: teal;
+}
+
+img {
+    float: right;
+}
+
+.kontakty {
+
+    clear: both;
+}
+
+.header {
+background-image: url(stůl.jpg);
+background-repeat: no-repeat;
+}
+
+
+.footer {
+
+    text-align: center;
+    background-color: aquamarine;
+
+}
